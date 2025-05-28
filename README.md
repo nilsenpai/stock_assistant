@@ -42,3 +42,7 @@ pip install -r requirements.txt
 
 ## Create a .env file in the root folder:
 GEMINI_API_KEY=your_actual_api_key
+
+## While running the app
+Give the input and save it
+Reload the page and click on start listening
