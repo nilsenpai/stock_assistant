@@ -1,0 +1,7 @@
+streamlit
+gtts
+playsound==1.2.2
+speechrecognition
+python-dotenv
+google-generativeai
+pyaudio ; platform_system == "Windows"
